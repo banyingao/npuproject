@@ -1,4 +1,4 @@
-# Sky Take Out 苍穹外卖
+# Sky Take Out 
 
 ![Sky Take Out Logo](frontend/sky-admin/img/logo.38b01728.png)
 
