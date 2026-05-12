@@ -1,0 +1,17 @@
+# Maven
+**/target/
+*.class
+
+# IDE
+.idea/
+*.iml
+
+# Local and sensitive configuration
+sky-server/src/main/resources/application-dev.local.yml
+**/*local.yml
+.env
+.env.*
+
+# Logs and runtime files
+logs/
+*.log
