@@ -1,6 +1,6 @@
 # Sky Take Out 
 
-![Sky Take Out Logo](frontend/sky-admin/img/logo.38b01728.png)
+
 
 Sky Take Out 是一个前后端分离的外卖管理系统示例项目。后端基于 Spring Boot + MyBatis，提供员工、菜品、套餐、订单、购物车、地址簿、店铺营业状态等接口；前端是已经构建好的 Vue 管理端静态页面，来自 `D:\nginx-1.20.2\html\sky`，已整理到本仓库的 `frontend/sky-admin` 目录中。
 
